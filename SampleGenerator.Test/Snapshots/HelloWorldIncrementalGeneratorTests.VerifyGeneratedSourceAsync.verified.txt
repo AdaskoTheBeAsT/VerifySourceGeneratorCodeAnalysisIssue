@@ -1,0 +1,25 @@
+﻿[
+  {
+    FilePath: ,
+    Length: 22,
+    HasCompilationUnitRoot: true,
+    Options: {
+      LanguageVersion: CSharp12,
+      Language: C#,
+      DocumentationMode: Parse,
+      Errors: null
+    }
+  },
+  {
+    FilePath: SampleGenerator\SampleGenerator.HelloWorldIncrementalGenerator\HelloWorldIncrementalGenerator.cs,
+    Encoding: utf-8,
+    Length: 320,
+    HasCompilationUnitRoot: true,
+    Options: {
+      LanguageVersion: CSharp12,
+      Language: C#,
+      DocumentationMode: Parse,
+      Errors: null
+    }
+  }
+]

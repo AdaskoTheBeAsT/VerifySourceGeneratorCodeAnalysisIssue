@@ -36,4 +36,8 @@
     <ProjectReference Include="..\SampleGenerator\SampleGenerator.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Snapshots\" />
+  </ItemGroup>
+
 </Project>

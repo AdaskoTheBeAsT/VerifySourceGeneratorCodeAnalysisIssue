@@ -27,6 +27,6 @@ public class HelloWorldIncrementalGeneratorTests
         // Assert
         var generatedSources = outputCompilation.SyntaxTrees;
 
-        return Verifier.Verify(generatedSources);
+        return Verifier.Verify(generatedSources).UseDirectory("Snapshots");
     }
 }
